@@ -1,4 +1,4 @@
-<?php
+<?php        // Phạm Trung Hiếu
 $flowers = [
     ["name" => "Hoa Đỗ Quyên", "image" => "./image/doquyen.jpg"],
     ["name" => "Hoa Hải Đường", "image" => "./image/haiduong.jpg"],

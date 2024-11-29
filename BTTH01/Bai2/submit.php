@@ -1,5 +1,5 @@
 <?php
-include 'db.php';
+include 'db.php';    // Phạm Trung Hiếu
 
 $stmt = $conn->query("SELECT id, correct_answer FROM questions");
 $answers = $stmt->fetchAll(PDO::FETCH_ASSOC);
